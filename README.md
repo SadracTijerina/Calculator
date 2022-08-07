@@ -12,11 +12,11 @@ I built this application using Kotlin and using some of the classes provided by 
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+I learned more about Linear layouts and having one nested under another. As well since having the vertical and horizontal orientation. I also learned about the difference between sp and dp.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Age In Minutes:** https://github.com/SadracTijerina/ageInMinutes
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Chair Design Project:** https://sadractijerina.github.io/Chairs-Design-Project/
